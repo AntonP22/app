@@ -2,7 +2,7 @@
 // Stores Excel data in localStorage for persistence
 
 import React, { useState, useEffect } from 'react';
-import { Tabs } from '@/components/ui/tabs';
+import { Tabs } from './components/ui/tabs';
 import { Card, CardContent } from '@/components/ui/card';
 import * as XLSX from 'xlsx';
 

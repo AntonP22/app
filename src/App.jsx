@@ -3,7 +3,7 @@
 
 import React, { useState, useEffect } from 'react';
 import { Tabs } from './components/ui/tabs';
-import { Card, CardContent } from '@/components/ui/card';
+import { Card, CardContent } from './components/ui/card';
 import * as XLSX from 'xlsx';
 
 // ...ОСТАВЛЕНА ЗАГЛУШКА ДЛЯ КОМПАКТНОСТИ (полный код был вставлен выше)...
